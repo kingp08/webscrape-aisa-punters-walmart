@@ -5,10 +5,7 @@ Followings are websites that I have scrapped.
 - Aisa
 
 ### Author
-- ***Konandodev7***
-
-### Contact Me
-- masterpython.konandodev7@gmail.com
+- ***m001108***
 
 ### Description: 
 The source files are in **./sites** folder.
@@ -26,9 +23,6 @@ I will explain scrapped websites below.
 
 ### Date: 
 07/05/2023
-
-### Author:
-***Konandodev7***
 
 ###  Description: 
 I have scrapped US computers list and details from the shop.
@@ -55,9 +49,6 @@ I have scrapped US computers list and details from the shop.
 
 ## Date: 
 07/06/2023
-
-## Author:
-***Konandodev7***
 
 ##  Description: 
 I have scrapped schools' detail information listed on Aisa Website.
