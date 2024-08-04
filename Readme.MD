@@ -3,9 +3,7 @@
 Followings are websites that I have scrapped.
 - Walmart
 - Aisa
-
-### Author
-- ***m001108***
+- Punters
 
 ### Description: 
 The source files are in **./sites** folder.
