@@ -1,6 +1,6 @@
-# Web Scrapping Hub
+# Web Scraping Hub
 
-Followings are websites that I have scrapped.
+Followings are websites that I have scraped.
 - Walmart
 - Aisa
 - Punters
@@ -8,7 +8,7 @@ Followings are websites that I have scrapped.
 ### Description: 
 The source files are in **./sites** folder.
 
-I will explain scrapped websites below.
+I will explain scraped websites below.
 
 --- 
 # Walmart
@@ -23,7 +23,7 @@ I will explain scrapped websites below.
 07/05/2023
 
 ###  Description: 
-I have scrapped US computers list and details from the shop.
+I have scraped US computers list and details from the shop.
 
 ### Example:
     Type: Product
@@ -49,7 +49,7 @@ I have scrapped US computers list and details from the shop.
 07/06/2023
 
 ##  Description: 
-I have scrapped schools' detail information listed on Aisa Website.
+I have scraped schools' detail information listed on Aisa Website.
 
 Finally, the details are saved in .csv file.
 
